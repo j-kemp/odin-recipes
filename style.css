@@ -1,0 +1,16 @@
+/* CSS Style sheet for odin recipe practice*/
+
+#main-site {
+  background-color: rgb(143, 115, 243);
+}
+
+.main-list, .main-link {
+  font-weight: bold;
+  color: rgb(245, 245, 144);
+  background-color: blueviolet;
+}
+
+#main-header {
+  color: rgb(252, 194, 86);
+  background-color: rgb(45, 124, 243);
+}
